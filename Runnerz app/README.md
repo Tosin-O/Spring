@@ -63,14 +63,6 @@ This course is a beginner's step-by-step guide to developing web applications us
       - `UserRestClientTest`
 - Resources
 
-## Who am I?
-
-- Husband + Father (2 daughters) #girldad 
-- Cleveland, OH
-- Spring Developer Advocate @Broadcom
-- Java Champion
-- Spring Academy Instructor
-- 23+ years of Software Development Experience
 
 ## Prerequisites
 
@@ -135,10 +127,7 @@ This is a list of resources I recommend you check out to continue your learning.
 - [Learning Spring Boot 3.0 - Greg Turnquist](https://amzn.to/3CuCgxc)
 - [Spring Boot in Action - Craig Walls](https://amzn.to/3ZcI3kx)
 
-### Podcasts
 
-- [Bootiful Podcast - Josh Long](http://bootifulpodcast.fm/)
-- [Spring Office Hours](https://www.springofficehours.io)
 
 ### YouTube
 
