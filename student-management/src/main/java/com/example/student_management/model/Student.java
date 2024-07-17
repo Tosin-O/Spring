@@ -18,6 +18,6 @@ public class Student {
     private String email;
     private String course;
 
-    // Getters and Setters
+    
 
 }
